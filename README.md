@@ -6,5 +6,6 @@ The user interface of the software developed for this study is shown in the foll
 <img src="./gui_img.png">
 
 ```bash
+cd src
 python3 main.py
 ```
